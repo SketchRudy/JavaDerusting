@@ -65,7 +65,7 @@ public class Person {
 
 
     // In a separate statement, print the local variable holding the birth year.
-    System.out.println(Bobby.name + "'s birthyear is " + birthYear);
+    System.out.println(firstName + "'s birthyear is " + birthYear);
 
     /**
      * Terminology!
